@@ -1,3 +1,3 @@
-set var=%cd%
+set var=%cd%\
 cd/
 rd /q/s %var%
