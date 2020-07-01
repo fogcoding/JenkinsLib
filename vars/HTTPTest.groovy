@@ -1,4 +1,3 @@
-import net.FogHTTP
 import net.HTTP
 
 /**
