@@ -1,3 +1,4 @@
-set var=%cd%\
-cd/
-rd /q/s %var%
+#set var=%cd%\
+#cd/
+#echo %var%
+rd /q/s .\
